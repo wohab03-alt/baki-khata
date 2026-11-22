@@ -16,6 +16,8 @@
 - **🌓 ডার্ক ও লাইট মোড:** চোখের আরামদায়ক আধুনিক থিম সাপোর্ট।
 
 ## 🚀 লাইভ ডেমো (Live Demo)
+
+ https://wohab03-alt.github.io/baki-khata/
 👉 **[https://shahincse98.github.io/baki-khata/](https://shahincse98.github.io/baki-khata/)**
 
 ## 💻 টেকনোলজি (Built With)
